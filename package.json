@@ -1,0 +1,23 @@
+{
+  "name": "zongyi-book",
+  "version": "1.0.0",
+  "description": "综艺节目是一种综合多种艺术形式并带有娱乐性的电视节目，给大家带来很多欢乐。 现在逐渐产生互联网综艺节目，脱胎于传统电视综艺节目依托于互联网的方式进行传播，是一种新兴的综艺形式。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanhuayun/zongyi-book.git"
+  },
+  "keywords": [],
+  "author": "hanhuayun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanhuayun/zongyi-book/issues"
+  },
+  "homepage": "https://github.com/hanhuayun/zongyi-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
